@@ -1,0 +1,20 @@
+.item-buttons-wrapper {
+  float: right;
+}
+.email-item {
+  margin-bottom: 10px;
+}
+.email-list {
+  list-style: none;
+}
+.email-action-button {
+  padding: 5px;
+  font-size: 9pt;
+}
+.email-action-button.remove {
+  color: darkred;
+}
+
+.email-action-button.okay {
+  color: black;
+}
